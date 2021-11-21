@@ -1,0 +1,13 @@
+{
+    "type": "service_account",
+    "project_id": "get-informed-ufnl",
+    "private_key_id": "a42b7f022b7cd89xxx",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIxxxxxxxxxxxxxAASCBKcwggSjAgEAAoIBAQDGU7ghMeQIp49Q\n7K1/T6vCiQphOVHhP153HkCOfpcJZxRWwisLDgsXQ/8A+V5Tzg1Vz00m7OI1Xr1D\njEtYfNO2ORnBRiBpJB/27ay8L5wKUBlS7qevDvZWgl5T2ndCzAkGMZTIdKARahkm\nK3NV21XcDwq0HvcntLGrUZ+N20dKfI92UXPUiQpzq02F1xPM4c8pZwiM021Nd+Bh\nmQhXzGNrTayC9bv5reszAMKK3swjkAA8kNnoYYM0og9IIXKlWgzxpy58K6lgyB/N\nsQqKV5FfYSMVo/jHudLQ+gGUPCdwd8z+JqiAYe5EVyrbFqT70h1JNxLqSPy5JEJn\nGDZ94GrBAgMBAAECggEASFmaPmHY8l9OJRNyZ5NE8X7Uzor+l9FqQMJEgrcjmkaE\nYPIMicfhu+cOS+isxJ3St48ccirQiu+407+GbQ18nmlOP/e5MyH+lzI1ZaFop0p5\nMovlmDM5Im4Ew0pbX37Xe+7ye/4vtqqh6g7H0HZnaBQEr5jsSQveFMV+E13/L+iD\nTlS9gbAtt8ym981ProNu9Oq4l2aC+hVRtpM2qySk27k4YSd5/RiASapyZxAm9H/n\nFBWtcPH2Py22Slvo4/lNSIwG3mcZYWs//igm6j/BU+Y/+AYP1Z6ONl9NnioiFxRy\nDp+zliRkBHjPtRKW/FaE/vBON0n9nfQg7N5jUkFO0QKBgQD9tXuUEInoGVCEMNQs\n+tjJwfGkgFFnnTuVS6Mi/eHXZjkPNh4wLeJy+Oqnf4KW5A0Hb2crVZGfH1Og+ani\nppxC3c2D4HbaQAXzVdK12OR/IEK/hVi8bDF/H4pl6PJXGeAUFs+M68nOqUoF7jfj\nOi/stpkrZZ0E5D+ccgrhnc7JCwKBgQDIHjTJ+0XwoGaJCcEpbJ8Kth7xJ19Yuyd6\nzOyLo2DjefyK24NZjKKuCsWVOYEmQBSk5VqqAV1pqRLAdJAc0vzSqq+9xTsr+s25\nER2flB/l9pFZLJrRJ8RroCiuKAOybeiILBCgl+R3vgkH0q0HlQfQJRWarx1q1UKL\npf5hrMAy4wKBgQDlEoiq7qfltX2abZAVsMQunvt0YRufJztWGH4KqRrR5o1ca6uk\nKrnMv2z3oUyiuvP8o5yOZutdteZHcUTvzSlHwoa+LNyDQM1eoT3oTRY6pkE+NcMi\nFbo3Ip5OV57//+/vk40AmyCShQ29/xHdC3ucCl6P7WZxtTiuI9YpUdgUcwKBgEDq\nI3+dpdtffMNZSbJxTMoBt9nMRs6Wr0DTdqv5THWd3YEBogMLbr38OomkhLNuuAOh\nbp6VIMMkmDOb3B+thVulCKsLbp1elxtAZRadyxciu5Vsta/BMaMj6e5Mhp57rqF1\ngdNGUlNRbsZ93akG++jWDsMFqQo9sX9xUipHCnW3AoGAT+3PYo4viC1nMFVNi8Qy\nNA5YdqkAbdfmsQ1ehMFl/H3tX25STyH8F+F8a/2Fw4CNcGVCwXMhbvtkJ0SINL6g\n+IXflR7zC0Rm4NMdYdlscem9WaKduq10oJ9KCZziwZwheJ/E2lCHuXufapSA6Zj5\nGiHlRNoRgqbytyOIZ/l0flM=\n-----END PRIVATE KEY-----\n",
+    "client_email": "newsbot-getinformed@get-informed-ufnl.iam.gserviceaccount.com",
+    "client_id": "100467292618257557135",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/newsbot-getinformed%40get-informed-ufnl.iam.gserviceaccount.com"
+  }
+  
