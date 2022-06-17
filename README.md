@@ -22,7 +22,9 @@ your day going?”
 instance, questions like: “Who are you?”, “What do you do?”
 Framework used: Flask
 
-__Tools used:__ Webhooks, Dialogflow by Google
-
-__Deployment:__ Using Heroku
+### Technologies used:
+* Flask
+* Webhooks
+* Dialogflow by Google
+* Heroku
 ### _Find this bot on telegram: Search @getinformed_bot on telegram_
